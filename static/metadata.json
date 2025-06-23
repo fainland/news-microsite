@@ -1,21 +1,17 @@
 {
-  "title": "Iran Strikes Spark Oil Price Surge",
-  "summary": "Following recent U.S. airstrikes in Iran, oil prices surged amid fears that the Strait of Hormuz could be blocked, disrupting global supply.",
+  "title": "Trump Launches Strikes on Iran: Triumph or Trap?",
+  "summary": "On June 22, President Donald Trump ordered precision airstrikes on Iranian military targets. The strikes mark a major escalation in the U.S.–Iran conflict and have prompted international concern about potential retaliation and disruption to oil flows.",
   "timeline": [
-    "June 21, 2025 — U.S. airstrikes hit military targets in Iran",
-    "June 22, 2025 — Iran threatens to close the Strait of Hormuz",
-    "June 22, 2025 — Brent Crude rises 6% in early trading"
+    "June 21, 2025 — U.S. conducts airstrikes against Iranian military installations",
+    "June 22, 2025 — Iran threatens retaliation and raises military alert status",
+    "June 22, 2025 — Oil markets surge on fears of Strait of Hormuz disruption"
   ],
-  "why_matters": "The Strait of Hormuz handles nearly 20% of global oil traffic. Any disruption could lead to economic shocks, inflation, and military escalation.",
+  "why_matters": "The Strait of Hormuz handles nearly 20% of global oil supply. Any Iranian attempt to close the strait could trigger global energy shocks, increased inflation, and further military escalation involving regional allies.",
   "sources": [
     {
-      "label": "Reuters",
-      "url": "https://www.reuters.com/markets/commodities/oil-prices-surge-after-iran-threatens-hormuz-2025-06-22/"
-    },
-    {
-      "label": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2025/6/22/iran-us-conflict-oil-shipping"
+      "label": "Fox News",
+      "url": "https://www.foxnews.com/opinion/trump-launches-precision-strikes-against-iran-triumph-trap"
     }
   ],
-  "keywords": ["oil", "Iran", "Strait of Hormuz", "geopolitics", "energy"]
+  "keywords": ["Trump", "Iran", "Strait of Hormuz", "oil prices", "Middle East", "airstrikes"]
 }
