@@ -1,17 +1,21 @@
 {
-  "title": "Trump Launches Strikes on Iran: Triumph or Trap?",
-  "summary": "On June 22, President Donald Trump ordered precision airstrikes on Iranian military targets. The strikes mark a major escalation in the U.S.–Iran conflict and have prompted international concern about potential retaliation and disruption to oil flows.",
+  "title": "Trump launches precision strikes against Iran. Triumph or trap?",
+  "summary": "President Donald Trump has initiated precision strikes against Iran, marking a significant escalation in the ongoing tensions regarding Iran's nuclear infrastructure.",
   "timeline": [
-    "June 21, 2025 — U.S. conducts airstrikes against Iranian military installations",
-    "June 22, 2025 — Iran threatens retaliation and raises military alert status",
-    "June 22, 2025 — Oil markets surge on fears of Strait of Hormuz disruption"
+    "2025-06-22T04:23:47Z"
   ],
-  "why_matters": "The Strait of Hormuz handles nearly 20% of global oil supply. Any Iranian attempt to close the strait could trigger global energy shocks, increased inflation, and further military escalation involving regional allies.",
+  "why_matters": "This development marks a critical juncture in U.S. foreign policy and could have significant geopolitical ramifications, impacting global stability and security.",
   "sources": [
     {
       "label": "Fox News",
       "url": "https://www.foxnews.com/opinion/trump-launches-precision-strikes-against-iran-triumph-trap"
     }
   ],
-  "keywords": ["Trump", "Iran", "Strait of Hormuz", "oil prices", "Middle East", "airstrikes"]
+  "keywords": [
+    "Trump",
+    "Iran",
+    "precision strikes",
+    "nuclear infrastructure",
+    "geopolitical"
+  ]
 }
