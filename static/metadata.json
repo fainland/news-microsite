@@ -1,0 +1,21 @@
+{
+  "title": "Iran Strikes Spark Oil Price Surge",
+  "summary": "Following recent U.S. airstrikes in Iran, oil prices surged amid fears that the Strait of Hormuz could be blocked, disrupting global supply.",
+  "timeline": [
+    "June 21, 2025 — U.S. airstrikes hit military targets in Iran",
+    "June 22, 2025 — Iran threatens to close the Strait of Hormuz",
+    "June 22, 2025 — Brent Crude rises 6% in early trading"
+  ],
+  "why_matters": "The Strait of Hormuz handles nearly 20% of global oil traffic. Any disruption could lead to economic shocks, inflation, and military escalation.",
+  "sources": [
+    {
+      "label": "Reuters",
+      "url": "https://www.reuters.com/markets/commodities/oil-prices-surge-after-iran-threatens-hormuz-2025-06-22/"
+    },
+    {
+      "label": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2025/6/22/iran-us-conflict-oil-shipping"
+    }
+  ],
+  "keywords": ["oil", "Iran", "Strait of Hormuz", "geopolitics", "energy"]
+}
